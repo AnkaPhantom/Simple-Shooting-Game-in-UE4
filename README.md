@@ -2,7 +2,7 @@ Test version of shooting game implementation.
 
 Use WASD and mouse to control the character.
 
-There are AI trackerbot appearing in the map and keep moving to player.
+There are AI trackerbots appearing in the map and they will keep moving to player.
 
 When it gets close enough to player, it will explode and bring damage to player.
 
