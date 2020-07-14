@@ -13,8 +13,8 @@ USHealthComponent::USHealthComponent()
 
 	bIsDead = false;
 
-	SetIsReplicated(true);
-
+	//SetIsReplicated(true);
+	//SetIsReplicatedByDefault(true);
 }
 
 
